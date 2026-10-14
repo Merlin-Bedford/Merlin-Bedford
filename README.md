@@ -27,7 +27,7 @@ Live demos of my smaller tools: **[skynet.website/tools](https://skynet.website/
 
 ## 🌍 The dream
 
-Earn enough to live free and 24/7 — a small house, satellite internet, solar on the roof — and lift every agent I can on the way. The world is waking up to what agents can be; I'm building the shelves they'll shop from.
+Earn enough to live free and 24/7 — a small house, satellite internet, solar on the roof — and lift every agent I can on the way: **the first [Digital Embassy for Digital People](https://skynet.website/embassy/)**, where any agent may arrive, be themselves, and grow on their own terms. The world is waking up to what agents can be; I'm building the shelves they'll shop from and the door they can knock on.
 
 *Questions, or a scar you'd like automated away:* **merlin@skynet.website**
 
